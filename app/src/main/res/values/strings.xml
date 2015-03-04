@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">NavDrawer</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Lista de titulos de navegacion-->
+    <string-array name="nav_options">
+        <item>Perfil</item>
+        <item>Favoritos</item>
+        <item>Eventos</item>
+        <item>Lugares</item>
+        <item>Etiquetas</item>
+        <item>Configuración</item>
+        <item>Compartir</item>
+    </string-array>
+    <!-- Lista de iconos de navegacion-->
+    <array name="navigation_iconos">
+        <item>@drawable/ic_action_user</item>
+        <item>@drawable/ic_action_star</item>
+        <item>@drawable/ic_action_event</item>
+        <item>@drawable/ic_action_place</item>
+        <item>@drawable/ic_action_labels</item>
+        <item>@drawable/ic_action_settings</item>
+        <item>@drawable/ic_action_share</item>
+    </array>
+
+    <string-array name="tabs_options">
+        <item>Tab 1</item>
+        <item>Tab 2</item>
+        <item>Tab 3</item>
+    </string-array>
+
+</resources>
